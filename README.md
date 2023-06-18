@@ -14,7 +14,7 @@
 
 ## 🤝 Connect with me
 
-[<img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="48"/>](linkedin.com/in/harshil-tanwar-793b60257/)
+[<img src="https://img.icons8.com/color/48/linkedin-circled--v1.png" alt="Linkedin" width="48"/>](https://linkedin.com/in/harshil-tanwar-793b60257/)
 [<img src="https://img.icons8.com/?size=512&id=M725CLW4L7wE&format=png" alt="Discord" width = "48"/>](https://discord.com/channels/@me/719839788924141678)
 
 

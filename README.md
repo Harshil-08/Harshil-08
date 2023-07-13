@@ -10,7 +10,8 @@
   
  - Data Structures and Algorithms
  - C++
- - CSS & JAVASCRIPT
+ - JAVASCRIPT
+ - Machine Learning
 
 ## 🤝 Connect with me
 

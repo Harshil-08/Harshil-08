@@ -26,6 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshil-08&show_icons=true&locale=en" alt="harshil-08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshil-08&" alt="harshil-08" /></p>
-
 [![An image of @harshil08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshil08)](https://holopin.io/@harshil08)

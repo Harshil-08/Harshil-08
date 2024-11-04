@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshil-08&label=Profile%20views&color=0e75b6&style=flat" alt="harshil-08" /> </p>
 I'm a web developer with a passion for building interactive and user-friendly web applications. Alongside development, I’m also enthusiastic about solving coding challenges and improving my problem-solving skills through competitive programming (CP).
 
-- 🔭 I’m currently working on [Yapper](https://github.com/Harshil-08/Yapper): A web-based chat application inspired by Discord, focusing on text communication and group creation features.
+- 🔭 I’m currently working on [Yapper](https://github.com/Harshil-08/Yapper): A web-based chat application.
 
 - 🌱 I’m currently learning **Mern Stack**, and **Machine Learning**
 

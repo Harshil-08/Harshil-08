@@ -57,12 +57,12 @@ I'm a web developer with a passion for building interactive and user-friendly we
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshil-08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil-08&theme=tokyonight&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-08&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=jupyter%20notebook,html" />
+# 📊 Stats:
 
-</div>
+<!-- prettier-ignore-start -->
+| [![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-08&custom_title=My%20Github%20Stats&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-08&hide=jupyter%20notebook,html&theme=tokyonight&hide_border=true&border_radius=10&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
+|--------------- | --------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Harshil-08&theme=tokyonight&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)   | [![roadmap.sh](https://roadmap.sh/card/wide/672a225331d65c235dcec721?variant=dark)](https://roadmap.sh)  |
+<!-- prettier-ignore-end -->
 
 [![An image of @harshil08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshil08)](https://holopin.io/@harshil08)

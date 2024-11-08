@@ -62,7 +62,7 @@ I'm a web developer with a passion for building interactive and user-friendly we
 <!-- prettier-ignore-start -->
 | [![Harshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshil-08&custom_title=My%20Github%20Stats&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshil-08&hide=jupyter%20notebook,html&theme=tokyonight&hide_border=true&border_radius=10&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    |
 |--------------- | --------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=Harshil-08&theme=tokyonight&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)   | [![roadmap.sh](https://roadmap.sh/card/wide/672a225331d65c235dcec721?variant=dark)](https://roadmap.sh)  |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Harshil-08&theme=tokyonight&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)   | [![roadmap.sh](https://roadmap.sh/card/wide/672a225331d65c235dcec721?variant=dark&roadmaps=backend%2Cdatastructures-and-algorithms%2Cmlops)](https://roadmap.sh)  |
 <!-- prettier-ignore-end -->
 
 [![An image of @harshil08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshil08)](https://holopin.io/@harshil08)
